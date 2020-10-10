@@ -1,0 +1,6 @@
+framework module XDJModules {
+  umbrella header "XDJModules-umbrella.h"
+
+  export *
+  module * { export * }
+}

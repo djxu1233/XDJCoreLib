@@ -1,0 +1,6 @@
+framework module Pods_XDJModules_Example {
+  umbrella header "Pods-XDJModules_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - XDJModules (0.1.0)
+
+DEPENDENCIES:
+  - XDJModules (from `../`)
+
+EXTERNAL SOURCES:
+  XDJModules:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XDJModules: db0f5ff53979d2fabef8b48ed9e7df3578e90928
+
+PODFILE CHECKSUM: 5ccda95a8dd7464e7c27b4e19fd994f9c1bb79cc
+
+COCOAPODS: 1.10.0.beta.1
