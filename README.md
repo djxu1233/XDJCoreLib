@@ -27,3 +27,4 @@ djxu1233@163.com, djxud@istoftstone.com
 ## License
 
 XDJModules is available under the MIT license. See the LICENSE file for more info.
+# XDJCoreLib
