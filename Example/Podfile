@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'XDJModules_Example' do
+  pod 'XDJModules', :path => '../'
+
+  target 'XDJModules_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
